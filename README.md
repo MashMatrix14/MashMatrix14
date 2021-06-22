@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MashMatrix14 aka Matete 
+- 👋 Hi, I’m Matete Nchabeleng
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python for Data science, Data analytics & exploration and Machine Learning & AI
 - 💞️ I’m looking to collaborate on exploratory data analytics
